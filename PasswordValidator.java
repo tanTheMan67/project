@@ -60,7 +60,7 @@ public class PasswordValidator {
         System.out.println("Welcome to PassWRD,the only stop to ensure safe password!!");
         System.out.println("Our Free Plan offers 30 Tokens");
         System.out.println("PAY 10$ to unlock premium features");
-        System.out.println("Encyptions such as SHA-2 available for more security");
+        System.out.println("Encryptions such as SHA-2 available for more security");
         System.out.println();
 
         while(true){
